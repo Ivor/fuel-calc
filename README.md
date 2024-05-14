@@ -1,21 +1,8 @@
 # FuelApp
 
-**TODO: Add description**
+An toy application to implement fuel calculations for landing and taking off from different planets. 
+See the individual modules for more documentation. 
 
-## Installation
+## Testing
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `fuel_app` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:fuel_app, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/fuel_app>.
-
+To run the tests, run `mix test` in the root directory.
